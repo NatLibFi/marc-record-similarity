@@ -1,0 +1,25 @@
+module.exports = {
+	similarity_master_host: "ukko192.hpc.cs.helsinki.fi",
+	workerNodeCount: 4,
+
+	mongoCache: {
+		collection: 'marc-dedup',
+		connectionUrl: 'mongodb://localhost:27018/marcdedup'
+	},
+
+	redisCache: {
+		prefix: "marc:dedup:"
+	},
+
+	pairProvider: {
+  		file: ""
+	},
+	recordProvider: {
+		useProvider: "fs",
+		fromDirectory: "",
+		
+	},
+	fileWriter: {
+		outputFile: __dirname + "/result_vectors.txt"
+	}
+};

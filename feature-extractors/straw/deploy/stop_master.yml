@@ -1,0 +1,7 @@
+---
+- hosts: similarity_master
+  remote_user: petuomin
+  tasks:
+  - name: stop similarity master node (killall node processes)
+    shell: killall node
+    ignore_errors: yes

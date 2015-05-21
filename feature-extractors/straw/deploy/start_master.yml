@@ -1,0 +1,6 @@
+---
+- hosts: similarity_master
+  remote_user: petuomin
+  tasks:
+  - name: start/restart similarity master node
+    shell: nohup node melinda_deduplication/dep/straw/similarity_master.js &

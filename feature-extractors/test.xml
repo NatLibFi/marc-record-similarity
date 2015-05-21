@@ -1,0 +1,175 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<find-doc>
+<record>
+<metadata>
+<oai_marc>
+<varfield id="STA" i1=" " i2=" ">
+<subfield label="a">DELETED</subfield>
+</varfield>
+<fixfield id="LDR">^^^^^dam^a22002537a^4500</fixfield>
+<fixfield id="001">000000003</fixfield>
+<fixfield id="005">20090710100544.0</fixfield>
+<fixfield id="008">850506s1982^^^^sw^||||||m^^^|||1|||swe||</fixfield>
+<varfield id="035" i1=" " i2=" ">
+<subfield label="a">(FI-MELINDA)000000003</subfield>
+</varfield>
+<varfield id="041" i1="0" i2=" ">
+<subfield label="a">swe</subfield>
+<subfield label="b">ger</subfield>
+</varfield>
+<varfield id="080" i1=" " i2=" ">
+<subfield label="a">658</subfield>
+</varfield>
+<varfield id="080" i1=" " i2=" ">
+<subfield label="a">293.11</subfield>
+</varfield>
+<varfield id="080" i1=" " i2=" ">
+<subfield label="a">348.9</subfield>
+</varfield>
+<varfield id="080" i1=" " i2=" ">
+<subfield label="a">291.32</subfield>
+</varfield>
+<varfield id="080" i1=" " i2=" ">
+<subfield label="a">293.11:34</subfield>
+<subfield label="x">(48)</subfield>
+</varfield>
+<varfield id="080" i1=" " i2=" ">
+<subfield label="a">39</subfield>
+<subfield label="x">(48)</subfield>
+</varfield>
+<varfield id="080" i1=" " i2=" ">
+<subfield label="a">34</subfield>
+<subfield label="x">(48)</subfield>
+</varfield>
+<varfield id="100" i1="0" i2=" ">
+<subfield label="a">Frense, Bo.</subfield>
+</varfield>
+<varfield id="245" i1="1" i2="0">
+<subfield label="a">Religion och rätt :</subfield>
+<subfield label="b">en studie till belysning av relationen religion -rätt i förkristen nordisk kultur /</subfield>
+<subfield label="c">av Bo Frense.</subfield>
+</varfield>
+<varfield id="260" i1=" " i2=" ">
+<subfield label="a">[Lund :</subfield>
+<subfield label="b">Lunds universitet],</subfield>
+<subfield label="c">1982.</subfield>
+</varfield>
+<varfield id="300" i1=" " i2=" ">
+<subfield label="a">331 s.</subfield>
+</varfield>
+<varfield id="502" i1=" " i2=" ">
+<subfield label="a">Diss.</subfield>
+<subfield label="c">Lunds universitet</subfield>
+<subfield label="d">1982.</subfield>
+</varfield>
+<varfield id="520" i1=" " i2=" ">
+<subfield label="a">Zusammenfassung.</subfield>
+</varfield>
+<varfield id="655" i1=" " i2="7">
+<subfield label="a">tiedotuslehdet</subfield>
+<subfield label="2">ysa</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">justice</subfield>
+<subfield label="2">atla</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">divination</subfield>
+<subfield label="2">atla</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">ethics</subfield>
+<subfield label="2">atla</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">Icelandic and old Norse literature</subfield>
+<subfield label="2">atla</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">law and religion</subfield>
+<subfield label="2">atla</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">historia</subfield>
+<subfield label="2">eks</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">yhteiskuntatieteet</subfield>
+<subfield label="2">eks</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">uskonto</subfield>
+<subfield label="2">eks</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">oikeus</subfield>
+<subfield label="2">eks</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">Pohjoismaat</subfield>
+<subfield label="2">eks</subfield>
+</varfield>
+<varfield id="650" i1=" " i2="7">
+<subfield label="a">historia</subfield>
+<subfield label="z">Pohjoismaat</subfield>
+<subfield label="2">eks</subfield>
+</varfield>
+<varfield id="SID" i1=" " i2=" ">
+<subfield label="c">1320299</subfield>
+<subfield label="b">volte</subfield>
+</varfield>
+<varfield id="SID" i1=" " i2=" ">
+<subfield label="c">4</subfield>
+<subfield label="b">alma</subfield>
+</varfield>
+<varfield id="SID" i1=" " i2=" ">
+<subfield label="c">3098</subfield>
+<subfield label="b">helka</subfield>
+</varfield>
+<varfield id="SID" i1=" " i2=" ">
+<subfield label="c">25770</subfield>
+<subfield label="b">selma</subfield>
+</varfield>
+<varfield id="SID" i1=" " i2=" ">
+<subfield label="c">393055</subfield>
+<subfield label="b">tamca</subfield>
+</varfield>
+<varfield id="SID" i1=" " i2=" ">
+<subfield label="c">251229</subfield>
+<subfield label="b">volte</subfield>
+</varfield>
+<varfield id="CAT" i1=" " i2=" ">
+<subfield label="a">LOAD</subfield>
+<subfield label="b"></subfield>
+<subfield label="c">20090122</subfield>
+<subfield label="l">FIN01</subfield>
+<subfield label="h">1151</subfield>
+</varfield>
+<varfield id="CAT" i1=" " i2=" ">
+<subfield label="a">KVPBATCH</subfield>
+<subfield label="b"></subfield>
+<subfield label="c">20090710</subfield>
+<subfield label="l">FIN01</subfield>
+<subfield label="h">1005</subfield>
+</varfield>
+<varfield id="LOW" i1=" " i2=" ">
+<subfield label="a">ALMA</subfield>
+</varfield>
+<varfield id="LOW" i1=" " i2=" ">
+<subfield label="a">HELKA</subfield>
+</varfield>
+<varfield id="LOW" i1=" " i2=" ">
+<subfield label="a">SELMA</subfield>
+</varfield>
+<varfield id="LOW" i1=" " i2=" ">
+<subfield label="a">TAMCA</subfield>
+</varfield>
+<varfield id="LOW" i1=" " i2=" ">
+<subfield label="a">VOLTE</subfield>
+</varfield>
+</oai_marc>
+</metadata>
+</record>
+<session-id>E6878HATIY9YL9Q998GD6Q67RB9KUEBK44MSP85QDRUE41SA7X</session-id>
+</find-doc>
+ 
