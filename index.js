@@ -7,7 +7,6 @@ var brain = require('brain');
 
 function constructor(options) {
 
-
 	var net = new brain.NeuralNetwork();
 
 	net.fromJSON(options.network);
