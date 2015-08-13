@@ -85,6 +85,10 @@ function Similarity(strategy) {
 	
 			var rec1_008 = _(record.controlfield).find(function(f) {return f.$.tag == "008"; } );
 			
+			if (rec1_008 === undefined) {
+				throw new Error("Field 008 missing from record.");
+			}
+			
 			var fields_from_008_1 = [rec1_008._.substr(7,4), rec1_008._.substr(11,4)].map(createField('008','a'));
 			
 			fields1 = fields1.concat(fields_from_008_1);
@@ -1091,6 +1095,11 @@ function Similarity(strategy) {
 		var normalized1 = normalize(clone(fields1), ['utf8norm', 'removediacs']);// , ['toSpace("-")', 'delChars("\':,.")', 'trimEnd', 'upper', 'utf8norm', 'removediacs']);
 		var normalized2 = normalize(clone(fields2), ['utf8norm', 'removediacs']);// , ['toSpace("-")', 'delChars("\':,.")', 'trimEnd', 'upper', 'utf8norm', 'removediacs']);
 	
+	
+		if (fields1[0] === undefined || fields2[0] === undefined) {
+			return null;
+		}
+
 		fields1[0].subfield = fields1[0].subfield.concat(clone(f245pn1[0]).subfield);
 		fields2[0].subfield = fields2[0].subfield.concat(clone(f245pn2[0]).subfield);
 		

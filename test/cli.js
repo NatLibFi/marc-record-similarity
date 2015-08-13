@@ -46,7 +46,8 @@ var client = new MelindaClient(config);
 
 var similarity = new SimilarityCheck({
 	strategy: strategy,
-	network: network
+	network: network,
+	verbose: displayOptions.verbose
 });
 
 Q.all([

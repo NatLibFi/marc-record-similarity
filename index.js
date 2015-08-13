@@ -14,7 +14,9 @@ function constructor(options) {
 	function check(record1, record2) {
 
 		var featureVector = generateFeatureVector(record1, record2);
-
+		if (options.verbose) {
+			console.log(featureVector);
+		}
 		var similarity = net.run(featureVector);
 
 		return similarity[0];
