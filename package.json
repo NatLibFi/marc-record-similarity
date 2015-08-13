@@ -1,6 +1,6 @@
 {
   "name": "marc-record-similarity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks the similarity of 2 marc records using neural network.",
   "main": "index.js",
   "scripts": {
