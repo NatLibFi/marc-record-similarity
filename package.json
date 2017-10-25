@@ -1,7 +1,20 @@
 {
   "name": "marc-record-similarity",
   "version": "1.0.2",
-  "description": "Checks the similarity of 2 marc records using neural network.",
+  "description": "Checks the similarity of 2 marc records using neural network",
+  "homepage": "https://github.com/natlibfi/marc-record-similarity",
+  "bugs": {
+    "url": "https://github.com/natlibfi/marc-record-similarity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:natlibfi/marc-record-similarity.git"
+  },
+  "license": "AGPL-3.0+",
+  "author": {
+    "name": "The National Library of Finland"
+  },
+
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +24,6 @@
     "deduplication",
     "similarity"
   ],
-  "author": "Pasi Tuominen <pasi.tuominen@gmail.com>",
-  "license": "ISC",
   "dependencies": {
     "brain": "^0.7.0",
     "roman-numerals": "^0.3.2",
