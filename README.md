@@ -1,15 +1,5 @@
 # Checks the similarity of 2 marc records using neural network
 
-**DEPRECATED: See Melinda deduplication repositories:**
-
-https://github.com/natlibfi/melinda-deduplication-validate
-
-https://github.com/NatLibFi/melinda-deduplication-merge
-
-https://github.com/NatLibFi/melinda-deduplication-datastore
-
-https://github.com/NatLibFi/melinda-deduplication-listener
-
 ## Installation
 
 ```
