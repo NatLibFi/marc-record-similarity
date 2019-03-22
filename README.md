@@ -1,3 +1,5 @@
+# Deprecated
+
 # Checks the similarity of 2 marc records using neural network
 
 ## Installation
